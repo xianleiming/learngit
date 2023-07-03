@@ -1,4 +1,0 @@
-#加载具体环境的配置yml
-spring:
-  profiles:
-    active: test
